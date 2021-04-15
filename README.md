@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dalya-Degtyareva
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Kaggle projects
 - 📫 How to reach me: dalya_degtyareva@outlook.com
 
 <!---
